@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Currency Exchange</string>
+    <string name="action_settings">EXIT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="setAUD_headTxt">1 AUD = ?</string>
+    <string name="txt_download">Please Wait...</string>
+
+</resources>

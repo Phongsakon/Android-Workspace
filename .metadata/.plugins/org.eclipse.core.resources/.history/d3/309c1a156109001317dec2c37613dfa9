@@ -1,0 +1,15 @@
+package com.softwarethai.atsi;
+
+import android.app.Fragment;
+
+public class CategoryFragment extends Fragment {
+	
+	final String ARG_CATEGORY_NUMBER = "category_number";
+	
+	public CategoryFragment(){
+		
+	}
+	
+	
+
+}

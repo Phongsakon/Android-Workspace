@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ATSI</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="category_arrays">
+        <item >Category 1</item>
+        <item >Category 2</item>
+        <item >Category 3</item>
+        <item >Category 4</item>
+    </string-array>
+
+</resources>

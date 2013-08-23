@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BtuCal</string>
+    <string name="action_settings">Settings</string>
+    <string name="Width">ความกว้าง</string>
+    <string name="BtuCal">แอพพลิเคชั่นคำนวณค่า BTU แอร์</string>
+    <string name="Unit">เมตร</string>
+    <string name="Long">ความยาว</string>
+    <string name="Height">ความสูง</string>
+    <string name="CalBtt">คำนวณค่า BTU</string>
+    <string name="Result">ขนาดของแอร์ที่ควรใช้ :</string>
+    <string name="Unit2">BTU</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SipaPhoneBook</string>
+    <string name="action_favorite">Add to favorite</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="searchVisible">Search contact</string>
+    <string name="headTxt_info">ข้อมูล</string>
+    <string name="text_name">ชื่อ :</string>
+    <string name="text_lastname">นามสกุล :</string>
+    <string name="text_nickname">ชื่อเล่น :</string>
+    <string name="text_department">ฝ่าย :</string>
+    <string name="txt_position">ตำแหน่ง :</string>
+    <string name="text_email">อีเมล์ :</string>
+    <string name="text_mobile">โทรศัพท์มือถือ :</string>
+    <string name="text_telephone">โทรศัพท์ :</string>
+
+</resources>

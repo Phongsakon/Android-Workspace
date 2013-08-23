@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring accessors="true" comment="Delete element from project &apos;NavigationDrawer&apos;&#x0D;&#x0A;- Original project: &apos;NavigationDrawer&apos;&#x0D;&#x0A;- Original element: &apos;drawer_layout.xml&apos;" description="Delete element" element1="res/layout/drawer_layout.xml" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1376641645852" subPackages="false" version="1.0"/>&#x0A;&#x0A;</session>

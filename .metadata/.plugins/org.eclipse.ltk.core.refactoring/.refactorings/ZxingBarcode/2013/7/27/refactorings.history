@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;rmutt.cs53.phongsakon.zxingbarcode&apos; to &apos;com.google.zxing.zxingbarcode&apos;&#x0D;&#x0A;- Original project: &apos;ZxingBarcode&apos;&#x0D;&#x0A;- Original element: &apos;ZxingBarcode/src/rmutt.cs53.phongsakon.zxingbarcode&apos;&#x0D;&#x0A;- Renamed element: &apos;ZxingBarcode/src/com.google.zxing.zxingbarcode&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;rmutt.cs53.phongsakon.zxingbarcode&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;rmutt.cs53.phongsakon.zxingbarcode" name="com.google.zxing.zxingbarcode" qualified="false" references="true" stamp="1372735750180" textual="false" version="1.0"/>
+</session>

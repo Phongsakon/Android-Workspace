@@ -1,0 +1,7 @@
+package com.softwarethai.atsi;
+
+import android.app.Fragment;
+
+public class CategoryFragment extends Fragment {
+
+}

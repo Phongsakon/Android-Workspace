@@ -1,0 +1,30 @@
+package com.softwarethai.atsi;
+
+import android.os.Bundle;
+import android.app.Activity;
+import android.support.v4.app.ActionBarDrawerToggle;
+import android.support.v4.widget.DrawerLayout;
+import android.view.Menu;
+import android.widget.ListView;
+
+public class MainActivity extends Activity {
+	
+	private DrawerLayout drawerLayout;
+	private ListView drawerList;
+	private ActionBarDrawerToggle drawerToggle;
+	
+	private CharSequence drawerTitle;
+	private CharSequence title;
+	private String[] categoryTitle;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+		
+		title = drawerTitle = getTitle();
+		categoryTitle = getResources().getStringArray(R.array.category_arrays);
+		drawerLayout
+		
+	}
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_flow"
+        android:icon="@drawable/ic_action_overflow"
+        android:showAsAction="ifRoom"
+        android:title="@string/actionFlow">
+        <menu>
+            <item
+                android:id="@+id/help"
+                android:title="@string/helpTxt"/>
+            <item
+                android:id="@+id/about"
+                android:title="@string/aboutTxt"/>
+        </menu>
+    </item>
+
+</menu>

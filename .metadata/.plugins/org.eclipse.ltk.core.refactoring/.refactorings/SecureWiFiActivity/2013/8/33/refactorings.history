@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Change Layout" description="Change Layout" file="/SecureWiFiActivity/res/layout/main.xml" flags="6" flatten="true" id="com.android.ide.eclipse.adt.refactoring.convert" proj="/SecureWiFiActivity" sel-end="1737" sel-start="257" stamp="1376537459633" type="android.widget.LinearLayout"/>
+</session>
